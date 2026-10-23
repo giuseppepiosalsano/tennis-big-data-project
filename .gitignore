@@ -1,0 +1,18 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+
+# Dati e immagini originali: verificare i diritti prima di pubblicarli
+data/*.csv
+data/*.jpeg
+data/*.jpg
+data/*.png
+
+# File locali / esecuzione
+*.log
+data/checkpoint*/
+data/.ipynb_checkpoints/
+.env
